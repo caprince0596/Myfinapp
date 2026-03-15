@@ -1,0 +1,10 @@
+{
+  "name": "Remix: MyFin: AI-Powered Wealth Vault",
+  "description": "Advanced personal finance management with AI-powered broker note extraction and secure cloud sync.",
+  "requestFramePermissions": [
+    "geolocation",
+    "camera",
+    "microphone"
+  ],
+  "defaultDevice": "mobile"
+}
